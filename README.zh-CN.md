@@ -4,7 +4,7 @@
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.21-alpha.10** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.21-alpha.11** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-02-expanded)**
 https://motiongit.com/@adunext/template-02-expanded
