@@ -1,7 +1,7 @@
 # Paper Perspective · Narrated Explainer · MotionGit .motion
 
 Template and full package: https://motiongit.com/@adunext/template-02-expanded
-Version: 2.7.21-alpha.11
+Version: 2.7.21-alpha.12
 Demo available; template download coming soon.
 
 Declared runtime profile: adu-authored-unit/1.
