@@ -6,7 +6,9 @@ Support structured explanations with paper perspective, layered cards and text-i
 
 **16:9 · 1920 × 1080 · 60 fps · v2.7.21-alpha.13** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
-**[Template details, full .motion & demo](https://motiongit.com/@adunext/template-02-expanded)**
+Motion templates now support asset APIs for background music, stickers, images and video, with free options. Upgraded templates remain **100% free and open source**. Download the upgrade from the official MotionGit page below. MotionGit links API access to individual accounts to prevent abuse from bulk requests. See MotionGit for the scope of free API usage.
+
+**[Download .motion from MotionGit](https://motiongit.com/@adunext/template-02-expanded)**
 https://motiongit.com/@adunext/template-02-expanded
 
 Demo available; template download coming soon.
