@@ -4,7 +4,7 @@ Support structured explanations with paper perspective, layered cards and text-i
 
 Template & full download: https://motiongit.com/@adunext/template-02-expanded
 Version: 2.7.21-alpha.13
-Demo available; template download coming soon.
+Demo available. Check the official page for current download availability.
 
 ## Technical reference
 
